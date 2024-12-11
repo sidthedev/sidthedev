@@ -1,12 +1,15 @@
 Hi Everyone,
+
 My name is Siddarth and I hail from Bangalore, India.
 My Technology journey started as a Developer Support Engineer in the Internet Explorer Team of Microsoft. Like every other individual who used to think, what is there to support a "Browser" that too its Free software and there wont be any necessity to support it.. Phew...
 But...there is lots to it...
+
 
 Any software that runs on a hardware should be able to be accessed via Browser. Thats when I realized the importance of this team and the product. My roles and responsibilities at Microsoft used to be to dive deeper into the Developer Issues and assisting the enterprise customers in making their applications breathe well in the browser.
 Just to give a broad spectrum of issues I used to handle on a daily basis are:
 Application is slow in Internet Explorer but works faster in other browsers,Users are experiencing hang issues during their work hours,Some group policies are restricting the users to load their web applications,DNS is not working, DHCP is incorrectly configured,Application crashes in the browser,Certificate errors while trying to connect to a company sharepoint site
 And the list goes on...
+
 
 Key Learnings : Understood the way Applications are developed keeping mind the Browser Compatability which is the first access point to any service ( end user / api's etc )
 Learnt the art of reverse engineering a problem with the help of powerful tools like wireshark, network monitor,fiddler,process monitor,socket tracer,windbg, analyzing core dumps and revieing the stack trace to accurately identify the function call that caused the failure etc.
@@ -25,9 +28,15 @@ Constant upskilling and customer first mindset has been one thing I have carried
 
 We can stay connected via:
 
+
 Linked In Profile: https://www.linkedin.com/in/siddarth-m-0a70121b/
+
+
 Blog:  https://msiddarthjain.medium.com/
+
+
 DockerHub: https://hub.docker.com/r/siddarthdocker10/ 
+
 
 Thanks for reading my journey...
 
