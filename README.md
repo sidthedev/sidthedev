@@ -19,7 +19,7 @@ In pursuit of my hunger to learn more about Virtualization Technologies, I had t
 This is where my real backend journey started. Citrix Xen products provides us with a wide range of solutions right from Hypervisor ( Xen Baremetal ) , Xenapp and XenDesktop, Netscaler Loadbalancer and Sharefile services. I had built my skillset as a Virtualization expert and was writing automation scripts to parse logs, analyze the patterns in the backend logs and boost the technical troubleshooting practises.
 
 
-While I was sailing the Virtualization Boat, I got an opportunity to go deeper into the BackEnd Engineering side on the worlds largest CDN provider "Akamai". I joined the Cloud Edge Engineering team and took charge to build release plans, developed and deployed product fixes and enhacements in a phased rollout. Wrote SQL queries to build Grafana dashboards to monitor the usefulness of a feature. As a Senior Software Engineer 2, my journey was more towards design, development and working on the enhancements to the product and handling Escalations.
+While I was sailing the Virtualization Boat, I got an opportunity to go deeper into the BackEnd Engineering side on the worlds largest CDN provider "Akamai". I joined the Cloud Edge Engineering team and took charge to build release plans, developed and deployed product fixes and enhacements in a phased rollou with risk assessments and SDLC process, additionally got my handson with creating docker images, building jenkins pipelines and ensuring the devops practises are followed. Wrote SQL queries to build Grafana dashboards to monitor the usefulness of a feature. As a Senior Software Engineer 2, my journey was more towards design, development and working on the enhancements to the product and handling Escalations.
 
 Constant upskilling and customer first mindset has been one thing I have carried throughout. Looking forward to learn and share more in the future.
 
@@ -27,6 +27,7 @@ We can stay connected via:
 
 Linked In Profile: https://www.linkedin.com/in/siddarth-m-0a70121b/
 Blog:  https://msiddarthjain.medium.com/
+DockerHub: https://hub.docker.com/r/siddarthdocker10/ 
 
 Thanks for reading my journey...
 
